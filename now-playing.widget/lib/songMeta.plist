@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>albumName</key>
+	<string>Com Lag (2Plus2IsFive)</string>
+	<key>artistName</key>
+	<string>Radiohead</string>
+	<key>coverURL</key>
+	<string>/now-playing.widget/lib/cover626.jpg</string>
+	<key>currentPosition</key>
+	<string>86</string>
+	<key>isLoved</key>
+	<string>false</string>
+	<key>oldFilename</key>
+	<string>/Users/skel/Library/Application Support/Übersicht/widgets/now-playing.widget/lib/cover626.jpg</string>
+	<key>songChanged</key>
+	<string>false</string>
+	<key>songDuration</key>
+	<string>126</string>
+	<key>songName</key>
+	<string>I Will [Los Angeles Version]</string>
+</dict>
+</plist>
